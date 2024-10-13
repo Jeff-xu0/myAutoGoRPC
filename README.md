@@ -105,6 +105,9 @@ void startClient(MyClient* client,const std::string& wsUri) {
 
 然后想要做中控的话就起几个线程来分别控制不同的手机就好，这个就不多讲了
 
+实现的效果就是：
 
+
+<video src="./result.mp4"></video>
 
 其他的都没什么讲的了，反正代码都很简单，看不懂就google，chatgpt，poe
