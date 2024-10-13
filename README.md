@@ -21,8 +21,8 @@ vcpkg install websocketpp
 
 可以看我的另一个仓库：
 
-```json
-https://github.com/Jeff-xu0/myAutoGoRPC
+```bash
+https://github.com/Jeff-xu0/myAutoRunRPCServ
 ```
 
 
